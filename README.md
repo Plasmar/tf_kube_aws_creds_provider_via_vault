@@ -1,0 +1,1 @@
+# tf_kube_aws_creds_provider_via_vault
